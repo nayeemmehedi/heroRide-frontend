@@ -1,0 +1,1 @@
+export const adminMain = "admin@admin.com"

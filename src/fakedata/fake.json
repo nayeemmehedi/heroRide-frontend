@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "company_name": "Zacharia",
+    "car_name": "Rendezvous",
+    "money": 100
+  }, {
+    "id": 2,
+    "company_name": "Tarrah",
+    "car_name": "Town & Country",
+    "money": 100
+  }, {
+    "id": 3,
+    "company_name": "Caspar",
+    "car_name": "Wrangler",
+    "money": 100
+  }, {
+    "id": 4,
+    "company_name": "Natalina",
+    "car_name": "Mustang",
+    "money": 100
+  }, {
+    "id": 5,
+    "company_name": "Astrid",
+    "car_name": "Caprice Classic",
+    "money": 100
+  }, {
+    "id": 6,
+    "company_name": "Rory",
+    "car_name": "Forenza",
+    "money": 200
+  }, {
+    "id": 7,
+    "company_name": "Reagen",
+    "car_name": "Sonoma Club Coupe",
+    "money": 200
+  }, {
+    "id": 8,
+    "company_name": "Riki",
+    "car_name": "Econoline E150",
+    "money": 200
+  }, {
+    "id": 9,
+    "company_name": "Louis",
+    "car_name": "550",
+    "money": 200
+  }, {
+    "id": 10,
+    "company_name": "Alvin",
+    "car_name": "Escape",
+    "money": 200
+  }]
